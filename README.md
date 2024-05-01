@@ -9,8 +9,8 @@ https://drive.google.com/drive/folders/1QwvVAzV1DFRkD0LVbOH0AWKcpOmTzyjt
 
 
 Project List
-Project Name	Description	Tools Used
-Project 1	Tested a web application for functionality and usability.	Test Plan, Testcases
+|Project Name|	Description	                                           |Tools Used          |
+|Project 1	 |Tested a web application for functionality and usability.|Test Plan, Testcases|
 
 
 
